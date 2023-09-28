@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    background-color: #131921;
+}
+
+nav {
+    /* background-color: #232F3E; */
+    background-image: linear-gradient(to right, darkslategrey, black);
+}
+
+/* li {
+    list-style-type: none;
+    color: white;
+    font-weight: 500;
+} */
+
+.me {
+    background-color: #232F3E;
+    color: white;
+}
+
+.me2 {
+    background-color: #232F3E;
+}
+
+.hm1 {
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.c1 {
+    /* background: linear-gradient(to bottom, #f8e3ad, #EEBA37); */
+    background: linear-gradient(to bottom, #c182ee, #a431f7);    
+}
+
+.c2{
+    background: linear-gradient(to bottom, #918996, #232F3E);
+}
+
+.c3{
+    background: linear-gradient(to top, lightgrey, rgb(186, 186, 186));
+}
